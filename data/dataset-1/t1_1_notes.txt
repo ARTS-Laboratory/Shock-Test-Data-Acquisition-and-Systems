@@ -1,0 +1,15 @@
+Author: Trotter Roberts
+Date: 04/28/2023
+Test Type: Accelerometer/Impedance
+PCB SN: V2103
+Accelerometer Model: 352A92
+Accelerometer 1 SN: 358273
+Accelerometer 2 SN: N/A
+Impedance Model: BK 880
+Impedance Cable Length: 118 inches
+Drop Height: 40 inches
+Cushion: 1/16 inch felt
+Bungee Status: Off
+Brake Trigger: 1.5 inch
+EXT Trigger: N/A
+Room Temperature: N/A
