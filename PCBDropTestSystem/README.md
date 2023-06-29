@@ -13,4 +13,5 @@ Run instructions
 10. Start DataAcquisition.vi
 11. Start Auto Operation
 12. Run Tests
-13. After VI stops, turn off the trigger, Touch Test, and BK Meter, put safety\n pin away, and depressurize system
+13. After VI stops, turn off the trigger, Touch Test, and BK Meter, put safety pin away
+14. Depressurize the system
