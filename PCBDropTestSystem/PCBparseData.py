@@ -1,7 +1,7 @@
 #This function takes in the large output file
 #from the PCB drop test VI and parses it into formatted data
 def parse(inFilePath, outFolderPath):
-  inputFile = open(inFilePath)#Add the file name before running
+  inputFile = open(inFilePath)
   accParity = 0 #Acceleration parity (was last line an acceleration measurement
   fileNum = 0
   timeOffset = 0
