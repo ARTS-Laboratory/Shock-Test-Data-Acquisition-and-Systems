@@ -1,4 +1,2 @@
-# Dataset - PCB Shock Test Damage
-data folder contains acceleration and impedance data for individual PCB shocks \n
-
-PCBDropTestSystem folder contains the Labview and Python code for data acquisition \n
+# Shock Test Data Acquisition and Systems
+General Data Acquisition code and hardware for the Shock Test System at USC.
